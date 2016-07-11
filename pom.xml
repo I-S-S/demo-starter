@@ -70,7 +70,7 @@
                 <dependencies>
                     <dependency>
                         <groupId>org.springframework</groupId>
-                        <artifactId>springloaded</artifactId><!--TODO Correct this error -->
+                        <artifactId>springloaded</artifactId>
                         <version>1.2.6.BUILD-SNAPSHOT</version>
                     </dependency>
                 </dependencies>
