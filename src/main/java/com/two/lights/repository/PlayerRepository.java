@@ -12,9 +12,7 @@ import org.springframework.data.rest.core.annotation.RestResource;
  * To change this template use File | Settings | File Templates.
  */
 
-@RestResource(path="teams", rel="team")
-public interface TeamRepository extends CrudRepository<Team, Long> {
-
-
+@RestResource(path="players", rel="player")
+public interface PlayerRepository extends CrudRepository<Team, Long> {
 
 }

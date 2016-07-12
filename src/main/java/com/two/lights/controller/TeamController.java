@@ -19,7 +19,7 @@ import java.util.List;
  * To change this template use File | Settings | File Templates.
  */
 
-@RestController
+//@RestController
 public class TeamController {
 
     @Autowired TeamRepository repository;
